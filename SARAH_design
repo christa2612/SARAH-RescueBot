@@ -1,0 +1,8 @@
+IV.METHODOLOGY
+(A)CAD DESIGN SPECIFICATION
+Base Plate
+The base structure (shown in Fig.8a) is a hexagonal central frame specifically designed for a hexapod robot, incorporating six evenly spaced mounting bays for leg assemblies. The frame features internally ribbed walls to enhance strength while minimizing weight. Strategic cutouts and slots are included for efficient cable routing, secure component mounting, and further weight reduction. Measuring 196 mm across its widest points and 50 mm in height, the design provides a 150 mm internal span to accommodate servos and structural  connections. Intended for 3D printing in PLA, it is recommended to use 40–50% infill to achieve an optimal balance between durability and weight for supporting the leg mechanisms.
+
+Fig.8a: Hexapod Base Plate Design
+
+Fig.8b: Base Plate Design with Dimensions
